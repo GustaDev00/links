@@ -16,6 +16,7 @@ export const SocialShare = styled.div`
   margin-top: 20px;
   display: flex;
   gap: 20px;
+  padding-bottom: 30px;
 `;
 
 export const Link = styled.a`
