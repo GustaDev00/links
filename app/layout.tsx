@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 import "@/styles/reset.css";
 
@@ -18,6 +19,7 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
+      <GoogleTagManager gtmId="GTM-PN2BNKV6" />
       <body>{children}</body>
     </html>
   );
