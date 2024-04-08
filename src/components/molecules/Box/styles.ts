@@ -44,6 +44,7 @@ export const BoxBigSmall = styled.p`
 export const Link = styled.a``;
 
 export const Img = styled(Image)`
+  width: 100%;
   position: absolute;
   top: 0;
   border-radius: 8px;
