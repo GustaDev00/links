@@ -6,7 +6,7 @@ export const theme: ExtendedTheme = {
   white: "#FFFFFF",
   black: "#000000",
   darkSilver: "#707070",
-  youtube: "#F44336",
+  youtube: "#C9382D",
   linkedin: "#0B66C2",
 };
 
