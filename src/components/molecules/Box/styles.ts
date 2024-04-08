@@ -45,6 +45,8 @@ export const Link = styled.a``;
 
 export const Img = styled(Image)`
   width: 100%;
+  height: 130px;
+  object-fit: cover;
   position: absolute;
   top: 0;
   border-radius: 8px;
