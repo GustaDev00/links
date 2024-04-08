@@ -9,7 +9,7 @@ export default {
       text: "Subscribe",
       type: "small",
       link: {
-        href: "https://www.youtube.com/channel/UCYK2J3X4J6YtJvz5l0c2Vkg",
+        href: "https://www.youtube.com/channel/UCJSZjUFJoVeKgAF2zJ6HPgg",
         target: "_blank",
         rel: "nofollow noopener noreferrer",
       },
